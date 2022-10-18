@@ -4,3 +4,4 @@ function wynik(liczba1, liczba2) {
     let ok = liczba1 + liczba2;
     return ok;
 }
+wynik(firstNumber, secondNumber);
